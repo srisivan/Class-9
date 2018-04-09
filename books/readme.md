@@ -51,6 +51,9 @@
  
  ![Check the contents of Beehive](https://github.com/srisivan/Class-9/blob/master/books/Beehive.jpg)
  
- [Check the contents of Moments](https://github.com/srisivan/Class-9/blob/master/books/Moments-Contents.pdf)
+ 
  
  ![Moments](https://github.com/srisivan/Class-9/blob/master/books/Moments.jpg)
+
+ [Check the contents of Moments](https://github.com/srisivan/Class-9/blob/master/books/Moments-Contents.pdf)
+ 
