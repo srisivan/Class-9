@@ -51,10 +51,10 @@ Books can be purchased at [SchookKart](http://www.schoolkart.com). Buy complete 
  * Beehive (Main)
  * Moments (Supplementary Reader)
  
- ![Beehive - Contents](https://github.com/srisivan/Class-9/blob/master/books/Beehive-Contents.pdf)
+ ![Beehive - Contents](https://github.com/srisivan/Class-9/blob/master/books/Beehive.jpg)
  
- 
- [Check the contents of Beehive](https://github.com/srisivan/Class-9/blob/master/books/Beehive.jpg)
+
+ [Check the contents of Beehive](https://github.com/srisivan/Class-9/blob/master/books/Beehive-Contents.pdf)
  
  
  
