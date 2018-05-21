@@ -34,25 +34,32 @@ The french revolution mainly signifies the concepts of :
 * Before the French revolution, France had a Monarchy, meaning it was ruled by
   a single person, and the role of power was not decided by the people. It was
   heriditary
+
 * After the revolution, it turned into a republic.
 
 
 ## Main points we will be learning in the lesson :
 * How the monarchy system in France came to an end
+
 * The Declaration of Rights to the citizens
+
 * How did the citizens give privilige to the new system of government
 
 ## About France
 Q : Where is France located?
+
 A : France is located in Europe.
 
 Q : Where exactly in Europe is France?
+
 A : It is in the south-western part of Europe.
 
 Q : Which language do they commonly speak in France?
+
 A : French.
 
 Q : Which is the capital of France?
+
 A : Capital of France is Paris.
 
 
@@ -70,4 +77,4 @@ They are:
 
 * First Estate : Clergy
 * Second Estate : Nobility
-* Third Estate : Businessman, Pesants and worksman, small Pesants.
+* Third Estate : Businessman, Pesants and worksman, small Pesants, common man.
