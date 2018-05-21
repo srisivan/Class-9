@@ -2,7 +2,7 @@
 # Social Science syllabus 
 
 # Months 
-# Subjects - Topics
+
 
 ## May 
 * History - French Revolution
