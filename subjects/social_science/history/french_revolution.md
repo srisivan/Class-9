@@ -78,3 +78,37 @@ They are:
 * First Estate : Clergy
 * Second Estate : Nobility
 * Third Estate : Businessman, Pesants and worksman, small Pesants, common man.
+
+The term _'Old Regime'_ is used to describe French society before 18th
+century.
+
+## Reasons for an empty treasury.
+
+The ruler who was in the throne, when the political revolution started, was
+King Louis XVI. He was throned in 1774. Which was also a bad time for France.
+The treasury of France was empty. This was because of three very main reasons:
+
+1. France had been in battle with Britain for a while now, and the ammunition,
+   and the armies had cost a great deal.
+
+2. Money was spent extravagantly on maintaining magnificient monuments like
+   the _Versailles_. 
+
+3. When Louis was throned, the 13 American colonies were suffering a great
+   deal from tthe invading of Britain. Since France and America shared a
+   common enemy, Britain, Louis decided that he must help America, without
+   giving a thought that their own treasury was out of money. The war further
+   more drained France of its money.
+
+And so, Louis was in a fix. To meet the country's regular expenses, he had to
+increase taxes. But even this measure did not suffice.
+
+## Types of taxes the church laid on the people.
+
+The church, too, collected its share of taxes from the people:
+
+* _Tithes_ : This was a tax which was to be paid by only the pesants.
+* _Tailles_ : This was a tax which was to be paid by all members of third
+  estate.
+
+
